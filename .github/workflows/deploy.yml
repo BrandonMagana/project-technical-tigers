@@ -34,7 +34,7 @@ jobs:
           SSH_IP: ${{ secrets.SSH_IP }}
       
       - name: Deploy site
-        run: ssh my-vps '~/redeploy-site.sh'
+        run: ssh my-vps '~/project-technical-tigers/redeploy-site.sh'
       
       - name: Print container status
         run: ssh my-vps 'docker compose -f ~/project-technical-tigers/docker-compose.prod.yml ps'
