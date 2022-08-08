@@ -99,4 +99,3 @@ We are interested in improving the web design, to make it more responsive, and w
 ## Authors
 
 - [@BrandonMagana](https://github.com/BrandonMagana)
-- [@MelisaCrnica](https://github.com/melisacrnica)
