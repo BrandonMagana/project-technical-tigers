@@ -37,7 +37,7 @@ jobs:
         run: ssh my-vps 'ls'
       
       - name: Deploy site
-        run: ssh my-vps 'sh ~/project-technical-tigers/redeploy-site.sh'
+        run: ssh my-vps '~/redeploy-site.sh'
       
       - name: Print container status
         run: ssh my-vps 'docker compose -f ~/project-technical-tigers/docker-compose.prod.yml ps'
