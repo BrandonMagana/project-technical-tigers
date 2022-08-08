@@ -1,5 +1,5 @@
 
-# Technichal Tigers Portfolio Template
+# Technichal Tigers Portfolio Template 2022
 
 This is a Portfolio website template created by Technichal-Tigers team (Pod 22.SUM.23)!<br />
 To view our website, please follow [instructions](#installation) down below.
